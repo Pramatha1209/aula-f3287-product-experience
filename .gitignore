@@ -4,3 +4,5 @@ node_modules/
 dist/
 build/
 ezgif-frame-*.jpg
+
+!ezgif-frame-*.jpg
